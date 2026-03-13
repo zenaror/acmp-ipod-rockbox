@@ -181,10 +181,6 @@ function settings_menu()
     while true do
 
         local r = list_menu("ACMP", options)
-        
-        if r == nil then
-            return true
-        end    
 
         if r == 1 then
 
