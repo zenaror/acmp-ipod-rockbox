@@ -5,9 +5,9 @@ Esse projeto é baseado no código já existe de um projeto em python do [acmp -
 Tudo que fiz, para essa versão, foi portar para LUA, para que pudesse ser usado no [Rockbox](https://www.rockbox.org/).
 
 ## O que faz?
-O script basicamente imita o comportamento do jogo, permitindo tocar uma música durante o período de 1 hora.
+O script basicamente imita o comportamento do jogo, permitindo tocar uma música em loop durante o período de 1 hora.
 
-Como o dispositivo não tem GPS ou acesso a internet, você pode tocar o clima manualmente.
+Como o dispositivo não tem GPS ou acesso a internet, você pode trocar o clima manualmente.
 
 Você não precisa usar necessáriamente o conteúdo do jogo, pode personalizar ao seu gosto!
 
