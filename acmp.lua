@@ -1,4 +1,4 @@
--- Animal Crossing Music Player based on Time (Rockbox)
+-- Animal Crossing Music Player (Rockbox)
 
 BASE_PATH = "/acmp-ipod/"
 
@@ -182,9 +182,9 @@ function settings_menu()
 
         local r = list_menu("ACMP", options)
         
-        if button == BTN_MENU then
+        if r == nil then
             return true
-        end        
+        end    
 
         if r == 1 then
 
