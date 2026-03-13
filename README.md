@@ -19,3 +19,9 @@ Para instalar, coloque o arquivo `acmp.lua` no diretório `/.rockbox/rocks/apps/
 Você também vai precisar das músicas. Para isso, pode usar as músicas do repositório original. Coloque eles em uma pasta na raiz chamada `acmp-ipod`. Você só precisa das pastas `animal-crossing`, `wild-world`, `new-leaf`, `new-horizons`.
 
 Um detalhe, a pasta `animal-crossing` NÃO POSSUI musicas para clima cuvoso baseado em hora. Você precisa conseguir ela de alguma forma, e renomear apenas como `raining.mp3` e colocar na pasta respectiva.
+
+## Documentação
+* [Repositório do Rockbox](https://github.com/Rockbox/rockbox)
+* [Deepwiki do Rockbox](https://deepwiki.com/Rockbox/rockbox)
+* [acmp - Animal Crossing Music Player](https://github.com/mjdargen/acmp)
+* Meu Fork [acmp - Animal Crossing Music Player](https://github.com/zenaror/acmp)
