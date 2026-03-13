@@ -180,7 +180,7 @@ function settings_menu()
 
     while true do
 
-        local r = list_menu("ACMP", options)
+        local r = list_menu("ACMP - Animal Crossing Music Player", options)
 
         if r == 1 then
 
